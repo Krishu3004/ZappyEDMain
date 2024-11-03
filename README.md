@@ -1,4 +1,4 @@
-#🌟 **ZappyED** - Empowering Learning Through Visual Storytelling 🌟
+# 🌟 **ZappyED** - Empowering Learning Through Visual Storytelling 🌟
 
 ### 📌 Problem Statement
 In today's fast-paced world, students often face challenges with short attention spans. This makes it difficult to stay focused on academic subjects or complex societal topics, such as menstruation, superstitions, or sex education. Studies reveal that **65% of people are visual learners**, and traditional text-based learning presents limitations like:
